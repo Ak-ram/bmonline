@@ -28,7 +28,7 @@
   size="string" <!-- xs | sm | md -->
   color="string" <!-- secondary | primary -->
 
-  <!-- Avatar styles Note: Choose only one style : -->
+  <!-- Avatar styles: pick only one -->
   label="Akram Asharf" <!-- appears : AA -->
   icon="string" <!-- ex; bm-maskImage-global_person-->
   imageSrc="string" <!-- ex; assets/person -->
