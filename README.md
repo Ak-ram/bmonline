@@ -55,3 +55,18 @@
 
 ></bm-datepicker>
 ```
+
+
+### `bm-badge`
+
+```html
+  <bm-badge data="9" badgeSize= "xxs | xs | sm | lg" badgeType= "standard | assistive" ></bm-badge>
+```
+
+
+
+
+
+
+
+
