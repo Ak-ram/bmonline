@@ -70,4 +70,23 @@
 ```html
 ```
 
+### Buttons
+
+#### we use directives with buttons not components
+
+1. ##### [bmButtonFAB]: Hide Button Lable
+
+![bmButtonFAB =true](https://github.com/Ak-ram/bmonline/assets/69124951/3c4a220f-fb98-432e-b282-56aefa37443b)
+
+```html
+<button [bmButtonFAB]="boolean"> Add New </button>
+```
+
+
+
+
+
+
+
+
 
