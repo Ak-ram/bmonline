@@ -1,4 +1,3 @@
-# bmonline
 ## bm-datepicker
 
 ```html
